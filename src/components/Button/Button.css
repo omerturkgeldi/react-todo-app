@@ -1,0 +1,18 @@
+.button {
+    margin: 0;
+    padding: 3px 8px;
+    display: inline-block;
+    justify-content: space-between;
+    border: 3px solid red;
+    border-radius: 8px;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+    transition-duration: 0.4s;
+    display: block;
+    float: right;
+}
+
+.button:hover {
+    background-color: rgb(153, 0, 0);
+}

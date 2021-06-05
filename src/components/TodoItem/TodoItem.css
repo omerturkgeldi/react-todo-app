@@ -1,0 +1,14 @@
+.content {
+    font-size: 1.5rem;
+    /* display: inline; */
+}
+
+.todoDiv div {
+    display: flex;
+    justify-content: space-between;
+}
+
+.done {
+    text-decoration: line-through;
+    text-decoration-color: rgb(180, 78, 78);
+}
